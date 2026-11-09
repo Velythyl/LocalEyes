@@ -8,7 +8,7 @@ Requires Node.js 22 or later.
 
 ```sh
 npm ci
-npm run dev
+npm run dev 
 ```
 
 ## Production build
